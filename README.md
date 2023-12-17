@@ -9,5 +9,6 @@ This code randomly generates a name and logs it within the sentence: "Greetings 
 3. Either 'the' or 'of' is then randomly selected and is pushed to the 'personalTitle' array.
 4. If in step 3, the value 'the' is selected, then a randomly selected value from the 'adjective' array is pushed to the 'personalTitle' array. If not,
    a randomly selected value from the 'place' array is pushed instead.
-5. A function 'personalTitleGreeting' is defined which joins the three randomly selected elements that have been pushed to the 'personalTitle' array, and embeds
-   it within the sentence noted in the above description. 
+5. A function 'personalTitleGreeting' is defined which joins the three randomly selected elements that have been pushed to the 'personalTitle' array and embeds
+   them within the sentence noted in the above description. The result is logged to the console.
+6. The function 'titleGenerator' and 'personalTitleGreeting' are then ran.  
