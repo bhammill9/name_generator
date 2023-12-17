@@ -1,7 +1,7 @@
 # Random Name Generator 
 
 ## Description 
-When ran, this code randomly generates a name and logs it within the sentence: "Greetings '(randomly generated name)' you outlandish devil". 
+This code randomly generates a name and logs it within the sentence: "Greetings '(randomly generated name)' you outlandish devil". 
 
 ## Code Process 
 1. A constant variable 'titleWords' containing the properties: 'name', 'articleOrPrep', 'adjective' and 'place' is defined. 
